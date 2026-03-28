@@ -1,0 +1,13 @@
+@font-face { /*css조건 5번조건 완성*/
+    font-family: 'A2z';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2601-6@1.0/에이투지체-1Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-display: swap;
+}
+body { /*CSS 4번조건 완성*/
+    font-family: 'A2z';
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.Ml1s4JMTYuiQz4qK5bM7VgHaDe?rs=1&pid=ImgDetMain&o=7&rm=3https://th.bing.com/th/id/OIP.YSa3hnEbMgfG-8gpo7cbkgHaEK?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+}
+
+
